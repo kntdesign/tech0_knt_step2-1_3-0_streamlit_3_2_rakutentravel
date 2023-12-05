@@ -1,0 +1,3240 @@
+{
+  "areaClasses": {
+    "largeClasses": [
+      [
+        {
+          "largeClassCode": "japan",
+          "largeClassName": "\u65e5\u672c"
+        },
+        {
+          "middleClasses": [
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "hokkaido",
+                  "middleClassName": "\u5317\u6d77\u9053"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sapporo",
+                          "smallClassName": "\u672d\u5e4c"
+                        },
+                        {
+                          "detailClasses": [
+                            {
+                              "detailClass": {
+                                "detailClassCode": "A",
+                                "detailClassName": "\u672d\u5e4c\u30fb\u65b0\u672d\u5e4c\u30fb\u7434\u4f3c"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "B",
+                                "detailClassName": "\u5927\u901a\u516c\u5712\u30fb\u6642\u8a08\u53f0\u30fb\u72f8\u5c0f\u8def"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "C",
+                                "detailClassName": "\u3059\u3059\u304d\u306e\u30fb\u4e2d\u5cf6\u516c\u5712"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "jozankei",
+                          "smallClassName": "\u5b9a\u5c71\u6e13"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "wakkanai",
+                          "smallClassName": "\u7a1a\u5185\u30fb\u7559\u840c\u30fb\u5229\u5c3b\u30fb\u793c\u6587"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "abashiri",
+                          "smallClassName": "\u7db2\u8d70\u30fb\u7d0b\u5225\u30fb\u5317\u898b\u30fb\u77e5\u5e8a"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kushiro",
+                          "smallClassName": "\u91e7\u8def\u30fb\u963f\u5bd2\u30fb\u5ddd\u6e6f\u30fb\u6839\u5ba4"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "obihiro",
+                          "smallClassName": "\u5e2f\u5e83\u30fb\u5341\u52dd"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hidaka",
+                          "smallClassName": "\u65e5\u9ad8\u30fb\u3048\u308a\u3082"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "furano",
+                          "smallClassName": "\u5bcc\u826f\u91ce\u30fb\u7f8e\u745b\u30fb\u30c8\u30de\u30e0"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "asahikawa",
+                          "smallClassName": "\u65ed\u5ddd\u30fb\u5c64\u96f2\u5ce1\u30fb\u65ed\u5cb3"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chitose",
+                          "smallClassName": "\u5343\u6b73\u30fb\u652f\u7b0f\u30fb\u82eb\u5c0f\u7267\u30fb\u6edd\u5ddd\u30fb\u5915\u5f35\u30fb\u7a7a\u77e5"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "otaru",
+                          "smallClassName": "\u5c0f\u6a3d\u30fb\u30ad\u30ed\u30ed\u30fb\u7a4d\u4e39\u30fb\u4f59\u5e02"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "niseko",
+                          "smallClassName": "\u30eb\u30b9\u30c4\u30fb\u30cb\u30bb\u30b3\u30fb\u5036\u77e5\u5b89"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hakodate",
+                          "smallClassName": "\u51fd\u9928\u30fb\u6e6f\u306e\u5ddd\u30fb\u5927\u6cbc\u30fb\u5965\u5c3b"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "noboribetsu",
+                          "smallClassName": "\u6d1e\u723a\u30fb\u5ba4\u862d\u30fb\u767b\u5225"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "aomori",
+                  "middleClassName": "\u9752\u68ee\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "aomori",
+                          "smallClassName": "\u9752\u68ee\u30fb\u6d45\u866b\u6e29\u6cc9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tsugaru",
+                          "smallClassName": "\u6d25\u8efd\u534a\u5cf6\u30fb\u4e94\u6240\u5ddd\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ntsugaru",
+                          "smallClassName": "\u767d\u795e\u5c71\u5730\u30fb\u897f\u6d25\u8efd"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hirosaki",
+                          "smallClassName": "\u5f18\u524d\u30fb\u9ed2\u77f3"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "towadako",
+                          "smallClassName": "\u516b\u7532\u7530\u30fb\u5341\u548c\u7530\u6e56\u30fb\u5965\u5165\u702c"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hachinohe",
+                          "smallClassName": "\u516b\u6238\u30fb\u4e09\u6ca2\u30fb\u4e03\u6238\u5341\u548c\u7530"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shimokita",
+                          "smallClassName": "\u4e0b\u5317\u30fb\u5927\u9593\u30fb\u3080\u3064"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "iwate",
+                  "middleClassName": "\u5ca9\u624b\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "morioka",
+                          "smallClassName": "\u76db\u5ca1"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shizukuishi",
+                          "smallClassName": "\u96eb\u77f3"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "appi",
+                          "smallClassName": "\u5b89\u6bd4\u9ad8\u539f\u30fb\u516b\u5e61\u5e73\u30fb\u4e8c\u6238"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kuji",
+                          "smallClassName": "\u5bae\u53e4\u30fb\u4e45\u6148\u30fb\u5ca9\u6cc9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ofunato",
+                          "smallClassName": "\u91dc\u77f3\u30fb\u5927\u8239\u6e21\u30fb\u9678\u524d\u9ad8\u7530"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kitakami",
+                          "smallClassName": "\u5317\u4e0a\u30fb\u82b1\u5dfb\u30fb\u9060\u91ce"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ichinoseki",
+                          "smallClassName": "\u5965\u5dde\u30fb\u5e73\u6cc9\u30fb\u4e00\u95a2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "miyagi",
+                  "middleClassName": "\u5bae\u57ce\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sendai",
+                          "smallClassName": "\u4ed9\u53f0\u30fb\u591a\u8cc0\u57ce\u30fb\u540d\u53d6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "akiu",
+                          "smallClassName": "\u79cb\u4fdd\u30fb\u4f5c\u4e26"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "naruko",
+                          "smallClassName": "\u9cf4\u5b50\u30fb\u53e4\u5ddd\u30fb\u304f\u308a\u3053\u307e\u9ad8\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "matsushima",
+                          "smallClassName": "\u677e\u5cf6\u30fb\u5869\u91dc\u30fb\u77f3\u5dfb\u30fb\u5357\u4e09\u9678\u30fb\u6c17\u4ed9\u6cbc"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shiroishi",
+                          "smallClassName": "\u767d\u77f3\u30fb\u5bae\u57ce\u8535\u738b"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "akita",
+                  "middleClassName": "\u79cb\u7530\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "akita",
+                          "smallClassName": "\u79cb\u7530"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "noshiro",
+                          "smallClassName": "\u80fd\u4ee3\u30fb\u7537\u9e7f\u30fb\u767d\u795e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "odate",
+                          "smallClassName": "\u5927\u9928\u30fb\u9e7f\u89d2\u30fb\u5341\u548c\u7530\u5927\u6e6f\u30fb\u516b\u5e61\u5e73"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tazawa",
+                          "smallClassName": "\u89d2\u9928\u30fb\u5927\u66f2\u30fb\u7530\u6ca2\u6e56"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yuzawa",
+                          "smallClassName": "\u6e6f\u6ca2\u30fb\u6a2a\u624b"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "honjo",
+                          "smallClassName": "\u7531\u5229\u672c\u8358\u30fb\u9ce5\u6d77\u5c71"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "yamagata",
+                  "middleClassName": "\u5c71\u5f62\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yamagata",
+                          "smallClassName": "\u5c71\u5f62\u30fb\u8535\u738b\u30fb\u5929\u7ae5\u30fb\u4e0a\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yonezawa",
+                          "smallClassName": "\u7c73\u6ca2\u30fb\u8d64\u6e6f\u30fb\u9ad8\u7560\u30fb\u9577\u4e95"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sagae",
+                          "smallClassName": "\u5bd2\u6cb3\u6c5f\u30fb\u6708\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "mogami",
+                          "smallClassName": "\u5c3e\u82b1\u6ca2\u30fb\u65b0\u5e84\u30fb\u6751\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shonai",
+                          "smallClassName": "\u9152\u7530\u30fb\u9db4\u5ca1\u30fb\u6e6f\u91ce\u6d5c\u30fb\u6e29\u6d77"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "hukushima",
+                  "middleClassName": "\u798f\u5cf6\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "fukushima",
+                          "smallClassName": "\u798f\u5cf6\u30fb\u4e8c\u672c\u677e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "aizu",
+                          "smallClassName": "\u4f1a\u6d25\u82e5\u677e\u30fb\u559c\u591a\u65b9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "bandai",
+                          "smallClassName": "\u732a\u82d7\u4ee3\u30fb\u8868\u78d0\u68af"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "urabandai",
+                          "smallClassName": "\u78d0\u68af\u9ad8\u539f\u30fb\u88cf\u78d0\u68af"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "koriyama",
+                          "smallClassName": "\u90e1\u5c71\u30fb\u78d0\u68af\u71b1\u6d77"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "minami",
+                          "smallClassName": "\u5357\u4f1a\u6d25\u30fb\u4e0b\u90f7\u30fb\u53ea\u898b\u30fb\u6a9c\u679d\u5c90"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nakadori",
+                          "smallClassName": "\u767d\u6cb3\u30fb\u9808\u8cc0\u5ddd"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hamadori",
+                          "smallClassName": "\u3044\u308f\u304d\u30fb\u5357\u76f8\u99ac\u30fb\u76f8\u99ac"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "ibaragi",
+                  "middleClassName": "\u8328\u57ce\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "mito",
+                          "smallClassName": "\u6c34\u6238\u30fb\u7b20\u9593"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "oarai",
+                          "smallClassName": "\u5927\u6d17\u30fb\u3072\u305f\u3061\u306a\u304b"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hitachi",
+                          "smallClassName": "\u65e5\u7acb\u30fb\u5317\u8328\u57ce\u30fb\u5965\u4e45\u6148"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tsukuba",
+                          "smallClassName": "\u3064\u304f\u3070\u30fb\u571f\u6d66\u30fb\u53d6\u624b"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yuki",
+                          "smallClassName": "\u53e4\u6cb3\u30fb\u7d50\u57ce\u30fb\u7b51\u897f\u30fb\u5e38\u7dcf"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kashima",
+                          "smallClassName": "\u9e7f\u5d8b\u30fb\u795e\u6816\u30fb\u6f6e\u6765\u30fb\u5317\u6d66"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "tochigi",
+                  "middleClassName": "\u6803\u6728\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "utsunomiya",
+                          "smallClassName": "\u5b87\u90fd\u5bae\u30fb\u3055\u304f\u3089"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nikko",
+                          "smallClassName": "\u65e5\u5149\u30fb\u4e2d\u7985\u5bfa\u6e56\u30fb\u5965\u65e5\u5149\u30fb\u4eca\u5e02"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kinugawa",
+                          "smallClassName": "\u9b3c\u6012\u5ddd\u30fb\u5ddd\u6cbb\u30fb\u6e6f\u897f\u5ddd\u30fb\u5ddd\u4fe3"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nasu",
+                          "smallClassName": "\u90a3\u9808\u30fb\u677f\u5ba4\u30fb\u9ed2\u78ef"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shiobara",
+                          "smallClassName": "\u5869\u539f\u30fb\u77e2\u677f\u30fb\u5927\u7530\u539f\u30fb\u897f\u90a3\u9808\u91ce"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "mashiko",
+                          "smallClassName": "\u771f\u5ca1\u30fb\u76ca\u5b50\u30fb\u8302\u6728"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "koyama",
+                          "smallClassName": "\u5c0f\u5c71\u30fb\u8db3\u5229\u30fb\u4f50\u91ce\u30fb\u6803\u6728"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "gunma",
+                  "middleClassName": "\u7fa4\u99ac\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "maebashi",
+                          "smallClassName": "\u524d\u6a4b\u30fb\u8d64\u57ce"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ikaho",
+                          "smallClassName": "\u4f0a\u9999\u4fdd\u6e29\u6cc9\u30fb\u6e0b\u5ddd"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "manza",
+                          "smallClassName": "\u4e07\u5ea7\uff65\u5b2c\u604b\uff65\u5317\u8efd\u4e95\u6ca2"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kusatsu",
+                          "smallClassName": "\u8349\u6d25\u6e29\u6cc9\u30fb\u767d\u6839"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shimaonsen",
+                          "smallClassName": "\u56db\u4e07\u6e29\u6cc9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "numata",
+                          "smallClassName": "\u6c34\u4e0a\u30fb\u733f\u30f6\u4eac\u30fb\u6cbc\u7530"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "oze",
+                          "smallClassName": "\u5c3e\u702c\u30fb\u4e38\u6cbc"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kiryu",
+                          "smallClassName": "\u4f0a\u52e2\u5d0e\u30fb\u592a\u7530\u30fb\u9928\u6797\u30fb\u6850\u751f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "takasaki",
+                          "smallClassName": "\u9ad8\u5d0e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "fujioka",
+                          "smallClassName": "\u5bcc\u5ca1\u30fb\u85e4\u5ca1\u30fb\u5b89\u4e2d\u30fb\u78ef\u90e8\u6e29\u6cc9"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "saitama",
+                  "middleClassName": "\u57fc\u7389\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "saitama",
+                          "smallClassName": "\u5927\u5bae\u30fb\u6d66\u548c\u30fb\u5ddd\u53e3\u30fb\u4e0a\u5c3e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kasukabe",
+                          "smallClassName": "\u8349\u52a0\u30fb\u8d8a\u8c37\u30fb\u6625\u65e5\u90e8\u30fb\u7fbd\u751f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kumagaya",
+                          "smallClassName": "\u718a\u8c37\u30fb\u6df1\u8c37\u30fb\u672c\u5e84"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kawagoe",
+                          "smallClassName": "\u5ddd\u8d8a\u30fb\u6771\u677e\u5c71\u30fb\u5fd7\u6728\u30fb\u548c\u5149"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tokorozawa",
+                          "smallClassName": "\u6240\u6ca2\u30fb\u72ed\u5c71\u30fb\u98ef\u80fd"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chichibu",
+                          "smallClassName": "\u79e9\u7236\u30fb\u9577\u701e"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "tiba",
+                  "middleClassName": "\u5343\u8449\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chiba",
+                          "smallClassName": "\u5343\u8449"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "keiyo",
+                          "smallClassName": "\u821e\u6d5c\u30fb\u6d66\u5b89\u30fb\u8239\u6a4b\u30fb\u5e55\u5f35"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kashiwa",
+                          "smallClassName": "\u677e\u6238\u30fb\u67cf"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "narita",
+                          "smallClassName": "\u6210\u7530\u7a7a\u6e2f\u30fb\u4f50\u5009"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "choshi",
+                          "smallClassName": "\u929a\u5b50\u30fb\u65ed\u30fb\u4e5d\u5341\u4e5d\u91cc\u30fb\u6771\u91d1\u30fb\u8302\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sotobo",
+                          "smallClassName": "\u9d28\u5ddd\u30fb\u52dd\u6d66\u30fb\u5fa1\u5bbf\u30fb\u990a\u8001\u6e13\u8c37"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tateyama",
+                          "smallClassName": "\u5357\u623f\u7dcf\u30fb\u9928\u5c71\u30fb\u767d\u6d5c\u30fb\u5343\u5009"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "uchibo",
+                          "smallClassName": "\u5e02\u539f\u30fb\u6728\u66f4\u6d25\u30fb\u541b\u6d25\u30fb\u5bcc\u6d25\u30fb\u92f8\u5357"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "tokyo",
+                  "middleClassName": "\u6771\u4eac\u90fd"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tokyo",
+                          "smallClassName": "\u6771\u4eac\uff12\uff13\u533a\u5185"
+                        },
+                        {
+                          "detailClasses": [
+                            {
+                              "detailClass": {
+                                "detailClassCode": "A",
+                                "detailClassName": "\u6771\u4eac\u99c5\u30fb\u9280\u5ea7\u30fb\u79cb\u8449\u539f\u30fb\u6771\u967d\u753a\u30fb\u845b\u897f"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "B",
+                                "detailClassName": "\u65b0\u6a4b\u30fb\u6c50\u7559\u30fb\u6d5c\u677e\u753a\u30fb\u304a\u53f0\u5834"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "C",
+                                "detailClassName": "\u8d64\u5742\u30fb\u516d\u672c\u6728\u30fb\u971e\u30f6\u95a2\u30fb\u6c38\u7530\u753a"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "D",
+                                "detailClassName": "\u6e0b\u8c37\u30fb\u6075\u6bd4\u5bff\u30fb\u76ee\u9ed2\u30fb\u4e8c\u5b50\u7389\u5ddd"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "E",
+                                "detailClassName": "\u54c1\u5ddd\u30fb\u5927\u4e95\u753a\u30fb\u84b2\u7530\u30fb\u7fbd\u7530\u7a7a\u6e2f"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "F",
+                                "detailClassName": "\u65b0\u5bbf\u30fb\u4e2d\u91ce\u30fb\u837b\u7aaa\u30fb\u56db\u8c37"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "G",
+                                "detailClassName": "\u6c60\u888b\u30fb\u8d64\u7fbd\u30fb\u5de3\u9d28\u30fb\u5927\u585a"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "H",
+                                "detailClassName": "\u6771\u4eac\u30c9\u30fc\u30e0\u30fb\u98ef\u7530\u6a4b\u30fb\u5fa1\u8336\u30ce\u6c34"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "I",
+                                "detailClassName": "\u4e0a\u91ce\u30fb\u6d45\u8349\u30fb\u9326\u7cf8\u753a\u30fb\u65b0\u5c0f\u5ca9\u30fb\u5317\u5343\u4f4f"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nishi",
+                          "smallClassName": "\u7acb\u5ddd\u30fb\u516b\u738b\u5b50\u30fb\u753a\u7530\u30fb\u5e9c\u4e2d\u30fb\u5409\u7965\u5bfa"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "okutama",
+                          "smallClassName": "\u5965\u591a\u6469\u30fb\u9752\u6885\u30fb\u7fbd\u6751"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ritou",
+                          "smallClassName": "\u516b\u4e08\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "oshima",
+                          "smallClassName": "\u5927\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kouzu",
+                          "smallClassName": "\u795e\u6d25\u5cf6\u30fb\u65b0\u5cf6\u30fb\u5f0f\u6839\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "miyake",
+                          "smallClassName": "\u4e09\u5b85\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "Ogasawara",
+                          "smallClassName": "\u5c0f\u7b20\u539f\u8af8\u5cf6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "kanagawa",
+                  "middleClassName": "\u795e\u5948\u5ddd\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yokohama",
+                          "smallClassName": "\u6a2a\u6d5c"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kawasaki",
+                          "smallClassName": "\u5ddd\u5d0e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hakone",
+                          "smallClassName": "\u7bb1\u6839"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "odawara",
+                          "smallClassName": "\u5c0f\u7530\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yugawara",
+                          "smallClassName": "\u6e6f\u6cb3\u539f\u30fb\u771f\u9db4"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sagamiko",
+                          "smallClassName": "\u76f8\u6a21\u6e56\u30fb\u4e39\u6ca2"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sagamihara",
+                          "smallClassName": "\u5927\u548c\u30fb\u76f8\u6a21\u539f\u30fb\u753a\u7530\u897f\u90e8"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ebina",
+                          "smallClassName": "\u539a\u6728\u30fb\u6d77\u8001\u540d\u30fb\u4f0a\u52e2\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shonan",
+                          "smallClassName": "\u6e58\u5357\u30fb\u938c\u5009\u30fb\u6c5f\u30ce\u5cf6\u30fb\u85e4\u6ca2\u30fb\u5e73\u585a"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "miura",
+                          "smallClassName": "\u6a2a\u9808\u8cc0\u30fb\u4e09\u6d66"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "niigata",
+                  "middleClassName": "\u65b0\u6f5f\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "niigata",
+                          "smallClassName": "\u65b0\u6f5f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kaetsu",
+                          "smallClassName": "\u6708\u5ca1\u30fb\u702c\u6ce2\u30fb\u54b2\u82b1"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kita",
+                          "smallClassName": "\u9577\u5ca1\u30fb\u71d5\u4e09\u6761\u30fb\u67cf\u5d0e\u30fb\u5f25\u5f66\u30fb\u5ca9\u5ba4\u30fb\u5bfa\u6cca"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "minami",
+                          "smallClassName": "\u9b5a\u6cbc\u30fb\u5341\u65e5\u753a\u30fb\u6d25\u5357\u30fb\u516d\u65e5\u753a\u30fb\u5927\u6e6f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yuzawa",
+                          "smallClassName": "\u8d8a\u5f8c\u6e6f\u6ca2\u30fb\u82d7\u5834"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "joetsu",
+                          "smallClassName": "\u4e0a\u8d8a\u30fb\u7cf8\u9b5a\u5ddd\u30fb\u5999\u9ad8"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sado",
+                          "smallClassName": "\u4f50\u6e21"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "toyama",
+                  "middleClassName": "\u5bcc\u5c71\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "toyama",
+                          "smallClassName": "\u5bcc\u5c71\u30fb\u516b\u5c3e\u30fb\u7acb\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "goto",
+                          "smallClassName": "\u6ed1\u5ddd\u30fb\u9b5a\u6d25\u30fb\u671d\u65e5\u30fb\u9ed2\u90e8\u30fb\u5b87\u5948\u6708"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "gosei",
+                          "smallClassName": "\u9ad8\u5ca1\u30fb\u6c37\u898b\u30fb\u783a\u6ce2"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "ishikawa",
+                  "middleClassName": "\u77f3\u5ddd\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kanazawa",
+                          "smallClassName": "\u91d1\u6ca2"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kaga",
+                          "smallClassName": "\u52a0\u8cc0\u30fb\u5c0f\u677e\u30fb\u8fb0\u53e3"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "noto",
+                          "smallClassName": "\u80fd\u767b\u30fb\u8f2a\u5cf6\u30fb\u73e0\u6d32"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nanao",
+                          "smallClassName": "\u4e03\u5c3e\u30fb\u548c\u5009\u30fb\u7fbd\u548b"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "hukui",
+                  "middleClassName": "\u798f\u4e95\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hukui",
+                          "smallClassName": "\u798f\u4e95"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "awara",
+                          "smallClassName": "\u3042\u308f\u3089\u30fb\u4e09\u56fd"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "katsuyama",
+                          "smallClassName": "\u6c38\u5e73\u5bfa\u30fb\u52dd\u5c71\u30fb\u5927\u91ce"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "echizen",
+                          "smallClassName": "\u8d8a\u524d\u30fb\u9bd6\u6c5f\u30fb\u6b66\u751f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tsuruga",
+                          "smallClassName": "\u6566\u8cc0\u30fb\u7f8e\u6d5c"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "obama",
+                          "smallClassName": "\u82e5\u72ed\u30fb\u5c0f\u6d5c\u30fb\u9ad8\u6d5c"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "yamanasi",
+                  "middleClassName": "\u5c71\u68a8\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kofu",
+                          "smallClassName": "\u7532\u5e9c\u30fb\u6e6f\u6751\u30fb\u6607\u4ed9\u5ce1"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yamanashi",
+                          "smallClassName": "\u5c71\u68a8\u30fb\u77f3\u548c\u30fb\u52dd\u6cbc\u30fb\u5869\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "otsuki",
+                          "smallClassName": "\u5927\u6708\u30fb\u90fd\u7559\u30fb\u9053\u5fd7\u6e13\u8c37"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yamanakako",
+                          "smallClassName": "\u5c71\u4e2d\u6e56\u30fb\u5fcd\u91ce"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kawaguchiko",
+                          "smallClassName": "\u6cb3\u53e3\u6e56\u30fb\u5bcc\u58eb\u5409\u7530\u30fb\u672c\u6816\u6e56\u30fb\u897f\u6e56\u30fb\u7cbe\u9032\u6e56"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "minobu",
+                          "smallClassName": "\u4e0b\u90e8\u30fb\u8eab\u5ef6\u30fb\u65e9\u5ddd"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nirasaki",
+                          "smallClassName": "\u97ee\u5d0e\u30fb\u5357\u30a2\u30eb\u30d7\u30b9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kiyosato",
+                          "smallClassName": "\u516b\u30f6\u5cb3\u30fb\u5c0f\u6df5\u6ca2\u30fb\u6e05\u91cc\u30fb\u5927\u6cc9"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "nagano",
+                  "middleClassName": "\u9577\u91ce\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nagano",
+                          "smallClassName": "\u9577\u91ce\u30fb\u5c0f\u5e03\u65bd\u30fb\u4fe1\u5dde\u9ad8\u5c71\u30fb\u6238\u96a0\u30fb\u98ef\u7db1"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "madara",
+                          "smallClassName": "\u6591\u5c3e\u30fb\u98ef\u5c71\u30fb\u4fe1\u6fc3\u753a\u30fb\u91ce\u5c3b\u6e56\u30fb\u9ed2\u59eb"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nozawa",
+                          "smallClassName": "\u91ce\u6ca2\u6e29\u6cc9\u30fb\u6728\u5cf6\u5e73\u30fb\u79cb\u5c71\u90f7"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shiga",
+                          "smallClassName": "\u5fd7\u8cc0\u9ad8\u539f\uff65\u6e6f\u7530\u4e2d\uff65\u6e0b"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ueda",
+                          "smallClassName": "\u4e0a\u7530\u30fb\u5225\u6240\u30fb\u9e7f\u6559\u6e6f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chikuma",
+                          "smallClassName": "\u6238\u5009\u4e0a\u5c71\u7530\u30fb\u5343\u66f2"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sugadaira",
+                          "smallClassName": "\u83c5\u5e73\u30fb\u5cf0\u306e\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "karui",
+                          "smallClassName": "\u8efd\u4e95\u6ca2\u30fb\u4f50\u4e45\uff65\u5c0f\u8af8"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yatsu",
+                          "smallClassName": "\u516b\u30f6\u5cb3\u30fb\u91ce\u8fba\u5c71\u30fb\u5bcc\u58eb\u898b\u30fb\u539f\u6751"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kirigamine",
+                          "smallClassName": "\u84fc\u79d1\u30fb\u767d\u6a3a\u6e56\u30fb\u9727\u30f6\u5cf0\u30fb\u8eca\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "suwa",
+                          "smallClassName": "\u8acf\u8a2a\u6e56"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ina",
+                          "smallClassName": "\u4f0a\u90a3\u30fb\u99d2\u30f6\u6839\u30fb\u98ef\u7530\u30fb\u663c\u795e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kiso",
+                          "smallClassName": "\u6728\u66fd"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "matsumo",
+                          "smallClassName": "\u677e\u672c\u30fb\u5869\u5c3b\u30fb\u6d45\u9593\u6e29\u6cc9\u30fb\u7f8e\u30f6\u539f\u6e29\u6cc9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kamiko",
+                          "smallClassName": "\u4e0a\u9ad8\u5730\u30fb\u4e57\u978d\u30fb\u767d\u9aa8"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hotaka",
+                          "smallClassName": "\u5b89\u66c7\u91ce\u30fb\u7a42\u9ad8\u30fb\u5927\u753a\u30fb\u8c4a\u79d1"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hakuba",
+                          "smallClassName": "\u767d\u99ac\u30fb\u516b\u65b9\u5c3e\u6839\u30fb\u6802\u6c60\u9ad8\u539f\u30fb\u5c0f\u8c37"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "gihu",
+                  "middleClassName": "\u5c90\u961c\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "gifu",
+                          "smallClassName": "\u5c90\u961c\u30fb\u5404\u52d9\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kamitakara",
+                          "smallClassName": "\u5965\u98db\u9a28\u30fb\u65b0\u7a42\u9ad8"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "takayama",
+                          "smallClassName": "\u9ad8\u5c71\u30fb\u98db\u9a28"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "gero",
+                          "smallClassName": "\u4e0b\u5442\u6e29\u6cc9\u30fb\u6fc1\u6cb3\u6e29\u6cc9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tajimi",
+                          "smallClassName": "\u4e2d\u6d25\u5ddd\u30fb\u591a\u6cbb\u898b\u30fb\u6075\u90a3\u30fb\u7f8e\u6fc3\u52a0\u8302"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "gujo",
+                          "smallClassName": "\u90e1\u4e0a\u516b\u5e61\u30fb\u95a2\u30fb\u7f8e\u6fc3"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shirakawago",
+                          "smallClassName": "\u767d\u5ddd\u90f7"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ogaki",
+                          "smallClassName": "\u5927\u57a3\u30fb\u5c90\u961c\u7fbd\u5cf6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "shizuoka",
+                  "middleClassName": "\u9759\u5ca1\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shizuoka",
+                          "smallClassName": "\u9759\u5ca1\u30fb\u6e05\u6c34"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "atami",
+                          "smallClassName": "\u71b1\u6d77"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ito",
+                          "smallClassName": "\u4f0a\u6771"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "izukogen",
+                          "smallClassName": "\u4f0a\u8c46\u9ad8\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "higashi",
+                          "smallClassName": "\u6771\u4f0a\u8c46\u30fb\u6cb3\u6d25"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shimoda",
+                          "smallClassName": "\u4e0b\u7530\u30fb\u5357\u4f0a\u8c46"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nishi",
+                          "smallClassName": "\u897f\u4f0a\u8c46\u30fb\u6238\u7530\u30fb\u571f\u80a5\u30fb\u5802\u30f6\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "naka",
+                          "smallClassName": "\u4f0a\u8c46\u9577\u5ca1\u30fb\u4fee\u5584\u5bfa\u30fb\u5929\u57ce\u6e6f\u30f6\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "fuji",
+                          "smallClassName": "\u5bcc\u58eb\u30fb\u5bcc\u58eb\u5bae"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "numazu",
+                          "smallClassName": "\u5fa1\u6bbf\u5834\u30fb\u6cbc\u6d25\u30fb\u4e09\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yaizu",
+                          "smallClassName": "\u713c\u6d25\u30fb\u85e4\u679d\u30fb\u5fa1\u524d\u5d0e\u30fb\u5bf8\u53c8\u5ce1"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hamamatsu",
+                          "smallClassName": "\u6d5c\u677e\u30fb\u6d5c\u540d\u6e56\u30fb\u5929\u7adc"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kikugawa",
+                          "smallClassName": "\u639b\u5ddd\u30fb\u888b\u4e95\u30fb\u78d0\u7530"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "aichi",
+                  "middleClassName": "\u611b\u77e5\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nagoyashi",
+                          "smallClassName": "\u540d\u53e4\u5c4b"
+                        },
+                        {
+                          "detailClasses": [
+                            {
+                              "detailClass": {
+                                "detailClassCode": "A",
+                                "detailClassName": "\u540d\u53e4\u5c4b\u99c5\u30fb\u4f0f\u898b\u30fb\u4e38\u306e\u5185"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "B",
+                                "detailClassName": "\u6804\u30fb\u9326\u30fb\u540d\u53e4\u5c4b\u57ce"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "C",
+                                "detailClassName": "\u91d1\u5c71\u30fb\u71b1\u7530\u30fb\u5343\u7a2e\u30fb\u30ca\u30b4\u30e4\u30c9\u30fc\u30e0"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "mikawawan",
+                          "smallClassName": "\u8c4a\u6a4b\u30fb\u8c4a\u5ddd\u30fb\u84b2\u90e1\u30fb\u4f0a\u826f\u6e56"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "okumikawa",
+                          "smallClassName": "\u5965\u4e09\u6cb3\u30fb\u65b0\u57ce\u30fb\u6e6f\u8c37\u6e29\u6cc9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "mikawa",
+                          "smallClassName": "\u8c4a\u7530\u30fb\u5208\u8c37\u30fb\u77e5\u7acb\u30fb\u5b89\u57ce\u30fb\u5ca1\u5d0e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "owari",
+                          "smallClassName": "\u4e00\u5bae\u30fb\u72ac\u5c71\u30fb\u5c0f\u7267\u30fb\u702c\u6238\u30fb\u6625\u65e5\u4e95"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chita",
+                          "smallClassName": "\u30bb\u30f3\u30c8\u30ec\u30a2\u30fb\u6771\u6d77\u30fb\u534a\u7530\u30fb\u77e5\u591a"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "minamichita",
+                          "smallClassName": "\u5357\u77e5\u591a\u30fb\u65e5\u9593\u8cc0\u5cf6\u30fb\u7be0\u5cf6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "mie",
+                  "middleClassName": "\u4e09\u91cd\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tsu",
+                          "smallClassName": "\u6d25\uff65\u9234\u9e7f\uff65\u4e80\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yunoyama",
+                          "smallClassName": "\u56db\u65e5\u5e02\u30fb\u6851\u540d\u30fb\u6e6f\u306e\u5c71\u30fb\u9577\u5cf6\u6e29\u6cc9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "iga",
+                          "smallClassName": "\u4f0a\u8cc0\u30fb\u540d\u5f35"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "matsusaka",
+                          "smallClassName": "\u677e\u962a"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ise",
+                          "smallClassName": "\u4f0a\u52e2\u30fb\u4e8c\u898b"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "toba",
+                          "smallClassName": "\u9ce5\u7fbd"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shima",
+                          "smallClassName": "\u5fd7\u6469\u30fb\u8ce2\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kumano",
+                          "smallClassName": "\u718a\u91ce\u30fb\u5c3e\u9df2\u30fb\u7d00\u5317"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "shiga",
+                  "middleClassName": "\u6ecb\u8cc0\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ootsu",
+                          "smallClassName": "\u5927\u6d25\u30fb\u96c4\u7434\u30fb\u8349\u6d25\u30fb\u6817\u6771"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kosei",
+                          "smallClassName": "\u6e56\u897f\u30fb\u9ad8\u5cf6\u30fb\u30de\u30ad\u30ce"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kohoku",
+                          "smallClassName": "\u9577\u6d5c\u30fb\u7c73\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kotou",
+                          "smallClassName": "\u5f66\u6839\u30fb\u8fd1\u6c5f\u516b\u5e61\u30fb\u5b88\u5c71\u30fb\u6771\u8fd1\u6c5f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shigaraki",
+                          "smallClassName": "\u4fe1\u697d\u30fb\u7532\u8cc0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "kyoto",
+                  "middleClassName": "\u4eac\u90fd\u5e9c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shi",
+                          "smallClassName": "\u4eac\u90fd"
+                        },
+                        {
+                          "detailClasses": [
+                            {
+                              "detailClass": {
+                                "detailClassCode": "D",
+                                "detailClassName": "\u4eac\u90fd\u99c5"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "A",
+                                "detailClassName": "\u5d50\u5c71\u30fb\u5d6f\u5ce8\u91ce\u30fb\u592a\u79e6\u30fb\u9ad8\u96c4"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "B",
+                                "detailClassName": "\u6cb3\u539f\u753a\u30fb\u56db\u6761\u70cf\u4e38\u30fb\u4e8c\u6761\u57ce\u30fb\u5fa1\u6240"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "C",
+                                "detailClassName": "\u7947\u5712\u30fb\u6771\u5c71\u30fb\u5317\u767d\u5ddd"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "E",
+                                "detailClassName": "\u5927\u539f\u30fb\u978d\u99ac\u30fb\u8cb4\u8239"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nannbu",
+                          "smallClassName": "\u5b87\u6cbb\u30fb\u9577\u5ca1\u4eac"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yunohana",
+                          "smallClassName": "\u4e80\u5ca1\u30fb\u6e6f\u306e\u82b1\u30fb\u7f8e\u5c71\u30fb\u4eac\u4e39\u6ce2"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "fukuchiyama",
+                          "smallClassName": "\u798f\u77e5\u5c71\u30fb\u7dbe\u90e8"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hokubu",
+                          "smallClassName": "\u4e39\u5f8c\u30fb\u4e45\u7f8e\u6d5c"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "miyazu",
+                          "smallClassName": "\u5929\u6a4b\u7acb\u30fb\u5bae\u6d25\u30fb\u821e\u9db4"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "osaka",
+                  "middleClassName": "\u5927\u962a\u5e9c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shi",
+                          "smallClassName": "\u5927\u962a"
+                        },
+                        {
+                          "detailClasses": [
+                            {
+                              "detailClass": {
+                                "detailClassCode": "B",
+                                "detailClassName": "\u5927\u962a\u99c5\u30fb\u6885\u7530\u30fb\u30e6\u30cb\u30d0\u30fc\u30b5\u30eb\u30b7\u30c6\u30a3\u30fb\u5c3c\u5d0e"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "D",
+                                "detailClassName": "\u306a\u3093\u3070\u30fb\u5fc3\u658e\u6a4b\u30fb\u5929\u738b\u5bfa\u30fb\u963f\u500d\u91ce\u30fb\u9577\u5c45"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "C",
+                                "detailClassName": "\u4eac\u6a4b\u30fb\u6dc0\u5c4b\u6a4b\u30fb\u672c\u753a\u30fb\u30d9\u30a4\u30a8\u30ea\u30a2\u30fb\u5f01\u5929\u753a"
+                              }
+                            },
+                            {
+                              "detailClass": {
+                                "detailClassCode": "A",
+                                "detailClassName": "\u65b0\u5927\u962a\u30fb\u6c5f\u5742"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hokubu",
+                          "smallClassName": "\u9ad8\u69fb\u30fb\u8328\u6728\u30fb\u7b95\u9762\u30fb\u4f0a\u4e39\u7a7a\u6e2f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "toubu",
+                          "smallClassName": "\u679a\u65b9\u30fb\u5b88\u53e3\u30fb\u6771\u5927\u962a"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nantou",
+                          "smallClassName": "\u516b\u5c3e\u30fb\u85e4\u4e95\u5bfa\u30fb\u6cb3\u5185\u9577\u91ce"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nanbu",
+                          "smallClassName": "\u583a\u30fb\u5cb8\u548c\u7530\u30fb\u95a2\u7a7a\u30fb\u6cc9\u4f50\u91ce"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "hyogo",
+                  "middleClassName": "\u5175\u5eab\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kobe",
+                          "smallClassName": "\u795e\u6238\u30fb\u6709\u99ac\u6e29\u6cc9\u30fb\u516d\u7532\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nantou",
+                          "smallClassName": "\u5b9d\u585a\u30fb\u897f\u5bae\u30fb\u7532\u5b50\u5712\u30fb\u4e09\u7530\u30fb\u7be0\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "minamichu",
+                          "smallClassName": "\u660e\u77f3\u30fb\u52a0\u53e4\u5ddd\u30fb\u4e09\u6728"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nannansei",
+                          "smallClassName": "\u59eb\u8def\u30fb\u76f8\u751f\u30fb\u8d64\u7a42"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chubu",
+                          "smallClassName": "\u548c\u7530\u5c71\u30fb\u7af9\u7530\u57ce\u30fb\u30cf\u30c1\u9ad8\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kita",
+                          "smallClassName": "\u57ce\u5d0e\u6e29\u6cc9\u30fb\u8c4a\u5ca1\u30fb\u51fa\u77f3\u30fb\u795e\u934b"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kasumi",
+                          "smallClassName": "\u9999\u4f4f\u30fb\u6d5c\u5742\u30fb\u6e6f\u6751"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "awaji",
+                          "smallClassName": "\u6de1\u8def\u5cf6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "nara",
+                  "middleClassName": "\u5948\u826f\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nara",
+                          "smallClassName": "\u5948\u826f\u30fb\u5927\u548c\u9ad8\u539f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hokubu",
+                          "smallClassName": "\u6a7f\u539f\u30fb\u5927\u548c\u90e1\u5c71\u30fb\u5929\u7406\u30fb\u751f\u99d2"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nanbu",
+                          "smallClassName": "\u5409\u91ce\u30fb\u5341\u6d25\u5ddd\u30fb\u5929\u5ddd\u30fb\u4e94\u689d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "wakayama",
+                  "middleClassName": "\u548c\u6b4c\u5c71\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "wakayama",
+                          "smallClassName": "\u548c\u6b4c\u5c71\u30fb\u52a0\u592a\u30fb\u548c\u6b4c\u6d66"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "Kihoku",
+                          "smallClassName": "\u9ad8\u91ce\u5c71\u30fb\u6a4b\u672c"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "gobo",
+                          "smallClassName": "\u5fa1\u574a\u30fb\u6709\u7530\u30fb\u6d77\u5357\u30fb\u65e5\u9ad8"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shirahama",
+                          "smallClassName": "\u5357\u7d00\u767d\u6d5c\u30fb\u7d00\u4f0a\u7530\u8fba\u30fb\u9f8d\u795e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "Katsuura",
+                          "smallClassName": "\u52dd\u6d66\u30fb\u4e32\u672c\u30fb\u3059\u3055\u307f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hongu",
+                          "smallClassName": "\u718a\u91ce\u53e4\u9053\u30fb\u65b0\u5bae\u30fb\u672c\u5bae\u30fb\u4e2d\u8fba\u8def"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "tottori",
+                  "middleClassName": "\u9ce5\u53d6\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tottori",
+                          "smallClassName": "\u9ce5\u53d6\u30fb\u5ca9\u7f8e\u30fb\u6d5c\u6751"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chubu",
+                          "smallClassName": "\u5009\u5409\u30fb\u4e09\u671d\u6e29\u6cc9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "seibu",
+                          "smallClassName": "\u7c73\u5b50\u30fb\u7686\u751f\u6e29\u6cc9\u30fb\u5927\u5c71"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "simane",
+                  "middleClassName": "\u5cf6\u6839\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "matsue",
+                          "smallClassName": "\u677e\u6c5f\u30fb\u7389\u9020\u30fb\u5b89\u6765\u30fb\u5965\u51fa\u96f2"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "toubu",
+                          "smallClassName": "\u51fa\u96f2\u30fb\u5927\u7530\u30fb\u77f3\u898b\u9280\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "masuda",
+                          "smallClassName": "\u6d25\u548c\u91ce\u30fb\u76ca\u7530\u30fb\u6d5c\u7530\u30fb\u6c5f\u6d25"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ritou",
+                          "smallClassName": "\u96a0\u5c90\u8af8\u5cf6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "okayama",
+                  "middleClassName": "\u5ca1\u5c71\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "okayama",
+                          "smallClassName": "\u5ca1\u5c71"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "bizen",
+                          "smallClassName": "\u725b\u7a93\u30fb\u702c\u6238\u5185\u30fb\u5099\u524d"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tsuyama",
+                          "smallClassName": "\u6d25\u5c71\u30fb\u6e6f\u90f7\u30fb\u7f8e\u4f5c\u30fb\u5965\u6d25"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "niimi",
+                          "smallClassName": "\u6e6f\u539f\u30fb\u849c\u5c71\u30fb\u65b0\u898b\u30fb\u9ad8\u6881"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kurashiki",
+                          "smallClassName": "\u5009\u6577\u30fb\u7dcf\u793e\u30fb\u7389\u91ce\u30fb\u7b20\u5ca1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "hiroshima",
+                  "middleClassName": "\u5e83\u5cf6\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hiroshima",
+                          "smallClassName": "\u5e83\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "higashihiroshima",
+                          "smallClassName": "\u6771\u5e83\u5cf6\u30fb\u7af9\u539f\u30fb\u4e09\u539f\u30fb\u5e83\u5cf6\u7a7a\u6e2f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "fukuyama",
+                          "smallClassName": "\u798f\u5c71\u30fb\u5c3e\u9053\u30fb\u3057\u307e\u306a\u307f\u6d77\u9053"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kure",
+                          "smallClassName": "\u5449\u30fb\u6c5f\u7530\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shohara",
+                          "smallClassName": "\u4e09\u6b21\u30fb\u5e84\u539f\u30fb\u5e1d\u91c8\u5ce1"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sandankyo",
+                          "smallClassName": "\u4e09\u6bb5\u5ce1\u30fb\u82b8\u5317\u30fb\u5317\u5e83\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "miyajima",
+                          "smallClassName": "\u5bae\u5cf6\u30fb\u5bae\u6d5c\u6e29\u6cc9\u30fb\u5eff\u65e5\u5e02"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "yamaguchi",
+                  "middleClassName": "\u5c71\u53e3\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yamaguchi",
+                          "smallClassName": "\u5c71\u53e3\u30fb\u6e6f\u7530\u6e29\u6cc9\u30fb\u9632\u5e9c"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "shimonoseki",
+                          "smallClassName": "\u4e0b\u95a2\u30fb\u5b87\u90e8"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "iwakuni",
+                          "smallClassName": "\u5ca9\u56fd\u30fb\u5468\u5357\u30fb\u67f3\u4e95"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hagi",
+                          "smallClassName": "\u8429\u30fb\u9577\u9580\u30fb\u79cb\u5409\u53f0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "tokushima",
+                  "middleClassName": "\u5fb3\u5cf6\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tokushima",
+                          "smallClassName": "\u5fb3\u5cf6\u30fb\u9cf4\u9580"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hokubu",
+                          "smallClassName": "\u5927\u6b69\u5371\u30fb\u7956\u8c37\u30fb\u5263\u5c71\u30fb\u5409\u91ce\u5ddd"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nanbu",
+                          "smallClassName": "\u963f\u5357\u30fb\u65e5\u548c\u4f50\u30fb\u5b8d\u55b0"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "kagawa",
+                  "middleClassName": "\u9999\u5ddd\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "takamatsu",
+                          "smallClassName": "\u9ad8\u677e\u30fb\u3055\u306c\u304d\u30fb\u6771\u304b\u304c\u308f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sakaide",
+                          "smallClassName": "\u5742\u51fa\u30fb\u5b87\u591a\u6d25\u30fb\u4e38\u4e80"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kotohira",
+                          "smallClassName": "\u7434\u5e73\u30fb\u89b3\u97f3\u5bfa"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ritou",
+                          "smallClassName": "\u5c0f\u8c46\u5cf6\u30fb\u76f4\u5cf6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "ehime",
+                  "middleClassName": "\u611b\u5a9b\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chuuyo",
+                          "smallClassName": "\u677e\u5c71\u30fb\u9053\u5f8c"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "touyo",
+                          "smallClassName": "\u4eca\u6cbb\u30fb\u3057\u307e\u306a\u307f\u6d77\u9053"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "saijo",
+                          "smallClassName": "\u897f\u6761\u30fb\u65b0\u5c45\u6d5c\u30fb\u56db\u56fd\u4e2d\u592e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nanyo",
+                          "smallClassName": "\u5b87\u548c\u5cf6\u30fb\u516b\u5e61\u6d5c"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "kouchi",
+                  "middleClassName": "\u9ad8\u77e5\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kouchi",
+                          "smallClassName": "\u9ad8\u77e5\u30fb\u5357\u56fd\u30fb\u9999\u5357\u30fb\u4f0a\u91ce"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "toubu",
+                          "smallClassName": "\u5b89\u82b8\u30fb\u5ba4\u6238"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "seibu",
+                          "smallClassName": "\u8db3\u647a\u30fb\u56db\u4e07\u5341\u30fb\u5bbf\u6bdb\u30fb\u9808\u5d0e"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "hukuoka",
+                  "middleClassName": "\u798f\u5ca1\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "fukuoka",
+                          "smallClassName": "\u535a\u591a\u30fb\u30ad\u30e3\u30ca\u30eb\u30b7\u30c6\u30a3\u30fb\u6d77\u306e\u4e2d\u9053\u30fb\u592a\u5bb0\u5e9c\u30fb\u4e8c\u65e5\u5e02"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "seibu",
+                          "smallClassName": "\u5929\u795e\u30fb\u4e2d\u6d32\u30fb\u85ac\u9662\u30fb\u798f\u5ca1\u30c9\u30fc\u30e0\u30fb\u7cf8\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kitakyusyu",
+                          "smallClassName": "\u5317\u4e5d\u5dde"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chikuzen",
+                          "smallClassName": "\u5b97\u50cf\u30fb\u5bae\u82e5\u30fb\u98ef\u585a"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kurume",
+                          "smallClassName": "\u4e45\u7559\u7c73\u30fb\u7518\u6728\u30fb\u539f\u9db4\u6e29\u6cc9\u30fb\u7b51\u5f8c\u5ddd\u6e29\u6cc9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "buzen",
+                          "smallClassName": "\u5317\u4e5d\u5dde\u7a7a\u6e2f\u30fb\u82c5\u7530\u30fb\u884c\u6a4b\u30fb\u8c4a\u524d"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chikugo",
+                          "smallClassName": "\u5927\u725f\u7530\u30fb\u67f3\u5ddd\u30fb\u516b\u5973\u30fb\u7b51\u5f8c"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "saga",
+                  "middleClassName": "\u4f50\u8cc0\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "saga",
+                          "smallClassName": "\u4f50\u8cc0\u30fb\u53e4\u6e6f\u6e29\u6cc9"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tosu",
+                          "smallClassName": "\u9ce5\u6816"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ureshino",
+                          "smallClassName": "\u5b09\u91ce\u30fb\u6b66\u96c4\u30fb\u4f0a\u4e07\u91cc\u30fb\u6709\u7530\u30fb\u592a\u826f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "karatsu",
+                          "smallClassName": "\u5510\u6d25\u30fb\u547c\u5b50"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "nagasaki",
+                  "middleClassName": "\u9577\u5d0e\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nagasaki",
+                          "smallClassName": "\u9577\u5d0e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "unzen",
+                          "smallClassName": "\u96f2\u4ed9\u30fb\u5cf6\u539f\u30fb\u5c0f\u6d5c"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "airport",
+                          "smallClassName": "\u8aeb\u65e9\u30fb\u5927\u6751\u30fb\u9577\u5d0e\u7a7a\u6e2f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "sasebo",
+                          "smallClassName": "\u30cf\u30a6\u30b9\u30c6\u30f3\u30dc\u30b9\u30fb\u4f50\u4e16\u4fdd\u30fb\u5e73\u6238"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ritou",
+                          "smallClassName": "\u4e94\u5cf6\u5217\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "tsushima",
+                          "smallClassName": "\u5bfe\u99ac"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "iki",
+                          "smallClassName": "\u58f1\u5c90\u5cf6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "kumamoto",
+                  "middleClassName": "\u718a\u672c\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kumamoto",
+                          "smallClassName": "\u718a\u672c"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kikuchi",
+                          "smallClassName": "\u5927\u6d25\u30fb\u7389\u540d\u30fb\u5c71\u9e7f\u30fb\u8352\u5c3e\u30fb\u83ca\u6c60"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "aso",
+                          "smallClassName": "\u963f\u8607"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yatsushiro",
+                          "smallClassName": "\u5b87\u571f\u30fb\u516b\u4ee3\u30fb\u6c34\u4fe3"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kuma",
+                          "smallClassName": "\u4eba\u5409\u30fb\u7403\u78e8"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "amakusa",
+                          "smallClassName": "\u5929\u8349\uff65\u672c\u6e21"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kurokawa",
+                          "smallClassName": "\u9ed2\u5ddd\u6e29\u6cc9\u30fb\u6756\u7acb"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "ooita",
+                  "middleClassName": "\u5927\u5206\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "oita",
+                          "smallClassName": "\u5927\u5206"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "beppu",
+                          "smallClassName": "\u5225\u5e9c\u30fb\u65e5\u51fa"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "usuki",
+                          "smallClassName": "\u4f50\u4f2f\u30fb\u81fc\u6775\u30fb\u8c4a\u5f8c\u5927\u91ce"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yufuin",
+                          "smallClassName": "\u6e6f\u5e03\u9662\u30fb\u6e6f\u5e73"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "taketa",
+                          "smallClassName": "\u4e45\u4f4f\u30fb\u7af9\u7530"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hita",
+                          "smallClassName": "\u4e5d\u91cd\u30fb\u65e5\u7530\u30fb\u5929\u702c"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kunisaki",
+                          "smallClassName": "\u56fd\u6771\u30fb\u4e2d\u6d25\u30fb\u5b87\u4f50\u30fb\u8036\u99ac\u6e13"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "miyazaki",
+                  "middleClassName": "\u5bae\u5d0e\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "miyazaki",
+                          "smallClassName": "\u5bae\u5d0e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hokubu",
+                          "smallClassName": "\u9ad8\u5343\u7a42\u30fb\u5ef6\u5ca1\u30fb\u65e5\u5411\u30fb\u9ad8\u934b"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nanbu",
+                          "smallClassName": "\u90fd\u57ce\u30fb\u3048\u3073\u306e\u30fb\u65e5\u5357\u30fb\u7dbe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "kagoshima",
+                  "middleClassName": "\u9e7f\u5150\u5cf6\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kagoshima",
+                          "smallClassName": "\u9e7f\u5150\u5cf6\u30fb\u685c\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "oosumi",
+                          "smallClassName": "\u9727\u5cf6\u30fb\u56fd\u5206\u30fb\u9e7f\u5150\u5cf6\u7a7a\u6e2f"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kanoya",
+                          "smallClassName": "\u9e7f\u5c4b\u30fb\u5782\u6c34\u30fb\u5fd7\u5e03\u5fd7"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hokusatsu",
+                          "smallClassName": "\u5ddd\u5185\u30fb\u51fa\u6c34"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nansatsu",
+                          "smallClassName": "\u6307\u5bbf\u30fb\u6795\u5d0e\u30fb\u5357\u3055\u3064\u307e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yakushima",
+                          "smallClassName": "\u5c4b\u4e45\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ritou",
+                          "smallClassName": "\u7a2e\u5b50\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "amami",
+                          "smallClassName": "\u5944\u7f8e\u5927\u5cf6\uff65\u559c\u754c\u5cf6\u30fb\u5fb3\u4e4b\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "okinoerabu",
+                          "smallClassName": "\u6c96\u6c38\u826f\u90e8\u5cf6\u30fb\u4e0e\u8ad6\u5cf6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "middleClass": [
+                {
+                  "middleClassCode": "okinawa",
+                  "middleClassName": "\u6c96\u7e04\u770c"
+                },
+                {
+                  "smallClasses": [
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nahashi",
+                          "smallClassName": "\u90a3\u8987"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "hokubu",
+                          "smallClassName": "\u6069\u7d0d\u30fb\u540d\u8b77\u30fb\u672c\u90e8\u30fb\u4eca\u5e30\u4ec1"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "chubu",
+                          "smallClassName": "\u5b9c\u91ce\u6e7e\u30fb\u5317\u8c37\u30fb\u8aad\u8c37\u30fb\u6c96\u7e04\u5e02\u30fb\u3046\u308b\u307e"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "nanbu",
+                          "smallClassName": "\u7cf8\u6e80\u30fb\u8c4a\u898b\u57ce\u30fb\u5357\u57ce"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kerama",
+                          "smallClassName": "\u6176\u826f\u9593\u30fb\u6e21\u5609\u6577\u30fb\u5ea7\u9593\u5473\u30fb\u963f\u5609"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "kumejima",
+                          "smallClassName": "\u4e45\u7c73\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "Miyako",
+                          "smallClassName": "\u5bae\u53e4\u5cf6\u30fb\u4f0a\u826f\u90e8\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "ritou",
+                          "smallClassName": "\u77f3\u57a3\u30fb\u897f\u8868\u30fb\u5c0f\u6d5c\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "yonaguni",
+                          "smallClassName": "\u4e0e\u90a3\u56fd\u5cf6"
+                        }
+                      ]
+                    },
+                    {
+                      "smallClass": [
+                        {
+                          "smallClassCode": "daito",
+                          "smallClassName": "\u5927\u6771\u5cf6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    ]
+  }
+}
