@@ -91,8 +91,8 @@ for i in range(0,len(result['hotels'])):
 #------------
 #ユーザーに最低価格と最高価格を指定させるモジュール
 #------------
-min_hotelMinCharge = df_hotels['hotelMinCharge'].min()
-max_hotelMinCharge = df_hotels['hotelMinCharge'].max()
+min_hotelMinCharge = int(df_hotels['hotelMinCharge'].min())
+max_hotelMinCharge = int(df_hotels['hotelMinCharge'].max())
 
 req_min_Charge, req_max_Charge = st.sidebar.slider(
       "ホテルの価格帯を選択してください。",
